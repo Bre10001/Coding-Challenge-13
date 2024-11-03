@@ -54,6 +54,7 @@ function displayProducts(products) {
         // Add the product card to the container
         productContainer.appendChild(productCard);
     });
+
 }
 
 
